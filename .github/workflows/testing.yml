@@ -1,0 +1,2 @@
+- name: Generate Shell Script Unit Testing
+  uses: vargiuscuola/gen-sh-unittest@v1.0
